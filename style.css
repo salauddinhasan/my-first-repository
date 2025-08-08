@@ -1,0 +1,34 @@
+ body {
+    padding:0px;
+    margin: 0px;
+    font-family:Arial;
+    background-color: aliceblue;
+ }
+ .half-width{
+   width: 40%;
+   padding-left:5%;
+   margin-left: 2%;
+   float: left;
+     
+ }
+ .half-width img {
+   width: 80%;
+ }
+ h1{
+   font-size: 50px;
+ }
+.highlight {
+    color: chocolate;
+ }
+ .button{
+    width: 110px;
+    height: 40px;
+    font-size: 18px;
+    background-color:chocolate;
+    color:white;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px; 
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    border: 1px solid white;
+ }
