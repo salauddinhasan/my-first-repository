@@ -2,7 +2,7 @@
     padding:0px;
     margin: 0px;
     font-family:Arial;
-    background-color: aliceblue;
+    background-color: rgb(143, 232, 177);
  }
  h1 {
   font-size: 50px;
@@ -17,16 +17,20 @@
  }
 
  p {
-  color: dimgray;
-  line-height:30px;
+  color: #333333; ;
+  line-height:27px;
+
  }
 
+ .h1,h2,h3,p,.link-button{
+  padding-top: 30px;
+ }
  .half-width{
    width: 40%;
    padding-left:5%;
    margin-left: 2%;
    float: left;
-   line-height: 30px;
+   line-height: 20px;
      
  }
  .half-width img {
@@ -45,29 +49,33 @@
       border-radius: 5px;
        
  }
- .section1 {
+ .section1{
        height: 600px;
-         
+       background-color:#5884C7;
 
  }
- .Big-Driam {
-   padding-top: 150px;
-   height: 700px;
+ .Big-Dream {
+   padding-top: 7px;
+   padding-bottom:20px;
+   height: 600px;
+   background-color: #F8B195;
     
  }
  .single-experiences {
   box-shadow: 10px 10px 40px gray;
   border-radius: 5px;
-   height: 80%;
+   height: 70%
  }
 .Experiences-area {
-   
-  height: 500px;
+  background-color:#C1E1C1;
+  margin: 30px;
+  height: 600px;
+ 
 }
-.footer  {
+ 
   
 
-}
+ 
 .footer p{
    display: flex;
    height: 50px;
